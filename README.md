@@ -158,7 +158,7 @@ Então eu devo ser redirecionado para a página anterior
 
 ## Planilha de Casos de Teste
 
-[Link para a Planilha do Google Docs]([URL_DA_PLANILHA](https://docs.google.com/spreadsheets/d/1E3GIZ4wgg6LQ_vHdzNbMLbRkLfDshLXXomqM0Q5yLME/edit?usp=sharing))
+[[Link para a Planilha do Google Docs](https://docs.google.com/spreadsheets/d/1E3GIZ4wgg6LQ_vHdzNbMLbRkLfDshLXXomqM0Q5yLME/edit?usp=sharing)]
 
 ## Evidências de Teste
 
